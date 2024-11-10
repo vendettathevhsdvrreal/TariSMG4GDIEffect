@@ -2,11 +2,12 @@
 
 TariSMG4GDI Effect is a malicious software designed to cause severe disruption to computer systems. Utilizing advanced techniques like MBR overwriting, graphic distortions, audio generation, and mouse manipulation, this virus aims to incapacitate the user's control and damage the system significantly.
 
-Features:
-MBROverwrite: Permanently corrupts the Master Boot Record 🚫.
-GDI: Creates visual disturbances on the screen 👁️.
-ByteBeat: Generates audio that can lead to confusion or annoyance 🔊.
-MouseMover: Randomly moves the mouse cursor, interfering with user control 🌀.
+## Features
+
+- **MBROverwrite**: Permanently corrupts the Master Boot Record 🚫.
+- **GDI**: Creates visual disturbances on the screen 👁️.
+- **ByteBeat**: Generates audio that can lead to confusion or annoyance 🔊.
+- **MouseMover**: Randomly moves the mouse cursor, interfering with user control 🌀.
 
 ## Disclaimer
 
